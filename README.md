@@ -74,9 +74,6 @@ headers: {
   'x-rapidapi-key': 'your-api-key-here'
 }
 📁 Project Structure
-pgsql
-Copy
-Edit
 cryptoWorld/
 ├── public/ # Static assets like index.html, favicon, etc.
 ├── src/ # Source code
@@ -87,6 +84,7 @@ cryptoWorld/
 │ └── index.js # Entry point for React app
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation (this file)
+
 📜 Available Scripts
 In the project directory, you can run:
 
