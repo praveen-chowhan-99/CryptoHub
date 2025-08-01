@@ -73,7 +73,9 @@ headers: {
   'x-rapidapi-host': 'example-api-host',
   'x-rapidapi-key': 'your-api-key-here'
 }
-📁 Project Structure
+
+## 📁 Project Structure
+
 cryptoWorld/
 ├── public/ # Static assets like index.html, favicon, etc.
 ├── src/ # Source code
@@ -83,7 +85,8 @@ cryptoWorld/
 │ ├── App.css # Global styles
 │ └── index.js # Entry point for React app
 ├── package.json # Project metadata and dependencies
-└── README.md # Project documentation (this file)
+└── README.md # Project documentation
+
 
 📜 Available Scripts
 In the project directory, you can run:
