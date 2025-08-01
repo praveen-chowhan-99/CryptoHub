@@ -84,17 +84,17 @@ npm run build – Build the project for production
 
 npm test – Run tests (if implemented)
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 RapidAPI for providing free APIs
 
 Ant Design for pre-built UI components
 
 Chart.js for elegant data visualizations
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to open an issue or submit a pull request.
 
-🔗 Connect
+## 🔗 Connect
 Made with ❤️ for crypto enthusiasts.
 Happy coding! 🚀
