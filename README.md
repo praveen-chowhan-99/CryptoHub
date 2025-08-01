@@ -1,4 +1,4 @@
-# 🚀 CryptoWorld
+# 🚀 CryptoHub
 
 **CryptoWorld** is a React-based cryptocurrency dashboard that provides real-time data on cryptocurrencies, global market statistics, and the latest crypto news. It integrates multiple APIs to display live data in a user-friendly and responsive interface.
 
