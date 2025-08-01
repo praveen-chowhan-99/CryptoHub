@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cryptoWorld.git
+   git clone https://github.com/praveen-chowhan-99/cryptoWorld.git
    cd cryptoWorld
 Install dependencies
 
@@ -78,15 +78,15 @@ pgsql
 Copy
 Edit
 cryptoWorld/
-├── src/
-│   ├── components/       # React components
-│   ├── services/         # API services
-│   ├── [App.jsx]         # Main application file
-│   ├── App.css           # Global styles
-│   └── index.js          # Entry point
-├── public/               # Static assets
-├── [package.json](http   # Project dependencies
-└── [README.md]           # Project documentation
+├── public/ # Static assets like index.html, favicon, etc.
+├── src/ # Source code
+│ ├── components/ # Reusable React components
+│ ├── services/ # API configuration and requests
+│ ├── App.jsx # Main application component
+│ ├── App.css # Global styles
+│ └── index.js # Entry point for React app
+├── package.json # Project metadata and dependencies
+└── README.md # Project documentation (this file)
 📜 Available Scripts
 In the project directory, you can run:
 
@@ -95,10 +95,6 @@ npm start – Start the development server
 npm run build – Build the project for production
 
 npm test – Run tests (if implemented)
-
-🪪 License
-This project is licensed under the MIT License.
-See the LICENSE file for more details.
 
 🙏 Acknowledgments
 RapidAPI for providing free APIs
